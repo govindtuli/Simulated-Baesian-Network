@@ -1,5 +1,5 @@
 # Simulated-Baesian-Network
-Simulating a Baesian Network to improve upon University of Regina's Paper "A Web-based Intelligent Tutoring System for Computer Programming"C.J. Butz, S. Hua, R.B. Maguire
+Simulating a Baesian Network to improve upon University of Regina's Paper "A Web-based Intelligent Tutoring System for Computer Programming"C.J. Butz, S. Hua, R.B. Maguire. This project was made for CS F407 at BITS Pilani.
 
 
 This is a simulation of a user interacting with a learning management system based on a Bayesian Network. The Bayesian Network models the user's knowledge of various programming concepts. The network structure is defined using the edges list, which represents the dependencies between programming concepts.
